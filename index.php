@@ -106,7 +106,7 @@ if(isset($_POST['submit'])){
     );
     $headers = array(
         'Content-Type: application/x-www-form-urlencoded',
-        'ApiKey: Me3s8tLM8vW' // Replace with your api key
+        'ApiKey: N64NNzGwfb8' // Replace with your api key
      );
     $info = http_build_query($data);
     
