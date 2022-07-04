@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="style.css">
 <body>
     <br>
-    <h4 align="center">Donation Transaction Records 🎁</h4>
+    <h4 align="center">JT TRANSACTION RECORDS 🎁</h4>
     <br><br>
     <div class="card-body">
         <div class="table-responsive">
